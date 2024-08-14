@@ -8,19 +8,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243900246798"
+global.ownernomer = "243979800116"
 global.ownername = "*Hans Tech"
 global.ytname = "YT: HansTech0"
 global.socialm = ""
 global.location = "EARTH,AFRICA"
 
-global.ownernumber = '243900246798'  //creator number
+global.ownernumber = '243979800116'  //creator number
 global.ownername = 'Harold MTH' //owner name
 global.botname = 'Hans-Bug-bot' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By Hans Tech'
-global.author = 'Hallo\n\nContact: 243900246798'
+global.author = 'Hallo\n\nContact: 243979800119'
 
 //console view/theme
 global.themeemoji = '😎'
